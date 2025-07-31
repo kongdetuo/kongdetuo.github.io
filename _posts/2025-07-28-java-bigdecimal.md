@@ -2,7 +2,8 @@
 title: Java BigDecimal 踩坑记
 date: 2025-07-28 21:00:00 +0800
 categories: [语言, Java, 踩坑]
-tags: [java, 踩坑]     # TAG names should always be lowercase
+tags: [java]     # TAG names should always be lowercase
+description："本文记录 Java BigDecimal 的一些坑"
 ---
 
 本文记录 Java BigDecimal 的一些坑

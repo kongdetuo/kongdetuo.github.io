@@ -2,7 +2,7 @@
 title: 为什么会有卡顿
 date: 2025-07-30 21:00:00 +0800
 categories: [UI, quality]
-tags: [ui, quality, 答群友问]     # TAG names should always be lowercase
+tags: [ui, quality, faq]     # TAG names should always be lowercase
 ---
 
 在我混迹在各种技术群的时候，经常会有人问，为什么这个页面会卡顿？大多时候，我都会回一句：肯定是你在UI线程上有什么骚操作。大多时候的确如此，但总是有些其他情况，这里就稍稍总结一下我的看法。
