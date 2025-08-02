@@ -1,7 +1,7 @@
 ---
 title: 【Xaml 可复用 UI】 复用布局
 date: 2024-12-22 14:00:00 +0800
-categories: [可复用UI, xaml]
+categories: [UI, 可复用UI]
 tags: [可复用UI, xaml, avalonia]
 ---
 
