@@ -64,9 +64,16 @@ description: 本文记录 Avalonia 的常见问题
 
 因为 .desktop 被识别成后缀名了，删除就好
 
-## 0x07 Avalonia 可以内嵌 CEF 吗
+## 0x07 Avalonia 可以内嵌 Html 吗？
 
-我不知道
+可以考虑以下项目：
+
+- [Webviews.Avalonia](https://github.com/MicroSugarDeveloperOrg/Webviews.Avalonia)
+- [WebView](https://github.com/OutSystems/WebView)
+- [CefGlue](https://github.com/OutSystems/CefGlue)
+- 【付费】[Avalonia Accelerate](https://avaloniaui.net/zh/accelerate#webview) (官方定位轻量使用)
+- 【付费】[DotNetBrowser](https://teamdev.com/dotnetbrowser/) 
+- 【简单渲染】[Avalonia.HtmlRenderer](https://github.com/AvaloniaUI/Avalonia.HtmlRenderer)
 
 ## 0x08 为什么 TextBox 的 KeyDown 事件没有触发？
 
