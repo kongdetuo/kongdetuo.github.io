@@ -51,3 +51,14 @@ public static String toString(Object o, String nullDefault) {
 
 >我怀疑啊，Java 的设计原则里有一个【不提供合理默认值】的设定，前面那个 `BigDecimal.divide` 宁愿报错也不给个默认处理方式，这里给个默认值却是不合理的。嗯。很棒。
 {: .prompt-info}
+
+## StringBuilder
+
+更新：突然想起来这个玩意儿，然后看了一眼 `StringBuilder.append(Object) ` 内部是怎么实现的：
+```java
+@Override
+public StringBuilder append(Object obj) {
+    return append(String.valueOf(obj));
+}
+```
+这个东西不会到处都是吧 ಠ_ಠ
