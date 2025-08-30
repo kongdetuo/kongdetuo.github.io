@@ -141,7 +141,7 @@ BindingPlugins.PropertyAccessors.Add(new DataRowViewPropertyAccessorPlugin());
 > 这里使用的是 ReflectionBinding 绑定，因为这个看起来就不支持编译绑定。
 > {: .prompt-info }
 
-## 参考链接
+### 参考链接
 
 - https://github.com/irihitech/Avalonia-Tutorials
 - https://github.com/AvaloniaUI/Avalonia/issues/2289
