@@ -1,7 +1,7 @@
 ---
 title: 【Avalonia】如何绑定 DataTable
 date: 2025-08-23 10:00:00 +0800
-categories: [Avalonia]
+categories: [UI,Avalonia]
 tags: [avalonia, datagrid, datatable]     # TAG names should always be lowercase
 description: 绑定 DataTable 的两种方法
 ---

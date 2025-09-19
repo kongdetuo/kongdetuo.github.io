@@ -1,7 +1,7 @@
 ---
 title: 【Avalonia】如何将 Avalonia 作为插件UI
 date: 2025-08-30 16:00:00 +0800
-categories: [Avalonia]
+categories: [UI,Avalonia]
 tags: [avalonia, cad, plugin-ui]     # TAG names should always be lowercase
 description: 在大型软件（如CAD）的二次开发中，经常使用 WPF/WinForm 作为 UI，Avalonia 可以吗？
 ---

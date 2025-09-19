@@ -1,7 +1,7 @@
 ---
 title: Java BigDecimal 踩坑记
 date: 2025-07-28 21:00:00 +0800
-categories: [语言, Java, 踩坑]
+categories: [Java, Java基础 ]
 tags: [java]     # TAG names should always be lowercase
 description: 本文记录 Java BigDecimal 的一些坑
 ---
@@ -15,7 +15,7 @@ description: 本文记录 Java BigDecimal 的一些坑
     以下内容来自文档：
     有人可能会认为在 Java 中编写 `new BigDecimal(0.1)` 会创建一个恰好等于 `0.1` 的 `BigDecima`l（未缩放值为 `1`，缩放位数为 `1`），但实际上它等于 `0.1000000000000000055511151231257827021181583404541015625`。这是因为 0.1 无法精确地表示为 double（或者，实际上，无法表示为任何有限长度的二进制分数）。
 
-    反正我是不理解为啥要保留这么一个构造函数，完全不能用嘛
+    反正我是不理解为啥要保留这么一个构造函数，完全不能用嘛 
 
 2. BigDecimal 的相等运算
 
