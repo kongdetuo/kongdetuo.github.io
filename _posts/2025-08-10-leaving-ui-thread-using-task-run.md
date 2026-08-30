@@ -1,7 +1,7 @@
 ---
 title: 通过 Task.Run 离开 UI 线程
 date: 2025-08-10 10:00:00 +0800
-categories: [UI, 异步]
+categories: [UI, async-ui]
 tags: [ui, async]     # TAG names should always be lowercase
 description: 只要我一路await下去，就不会阻塞 UI 线程，曾经我是这么认为的，直到我用MySql官方驱动连接数据库。
 ---

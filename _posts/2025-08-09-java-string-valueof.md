@@ -1,7 +1,7 @@
 ---
 title: 【Java 迷惑 API】String.valueOf
 date: 2025-08-09 21:00:00 +0800
-categories: [Java]
+categories: [Java, Java基础 ]
 tags: [java, 迷惑API]     # TAG names should always be lowercase
 description: 一个简单的 toString 也能有坑？
 ---

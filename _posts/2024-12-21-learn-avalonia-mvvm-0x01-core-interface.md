@@ -1,7 +1,7 @@
 ---
 title: 【学习 Avalonia MVVM 模式】 0x01 MVVM 核心接口 
 date: 2024-12-21 13:00:00 +0800 
-categories: [Avalonia, MVVM]
+categories: [UI, MVVM]
 tags: [avalonia, mvvm, 教程]
 ---
 

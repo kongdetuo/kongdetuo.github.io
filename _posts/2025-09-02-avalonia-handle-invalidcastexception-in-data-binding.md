@@ -1,10 +1,13 @@
 ---
 title: 【Avalonia】处理数据绑定中的 InvalidCastException 异常
 date: 2025-09-02 22:50:00 +0800
-categories: [Avalonia]
+categories: [UI, Avalonia]
 tags: [avalonia, validation]     # TAG names should always be lowercase
 #description: 
 ---
+
+> 绑定数字类型更适合使用 NumericUpDown 控件
+{: .prompt-tip }
 
 在 Avalonia 日常开发中，TextBox 绑定到 int 类型属性是十分常见的情况，但是一旦输入了无效数字，界面上马上就会显示错误消息: `System.InvalidCastException: Could not convert '' (System.String) to System.Int32.`。这种错误消息完全是不合理的，没有本地化不说，也不该展示完整的类型。
  

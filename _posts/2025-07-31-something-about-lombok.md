@@ -1,7 +1,7 @@
 ---
 title: Lombok 二三事
 date: 2025-07-31 21:00:00 +0800
-categories: [Java, plugin]
+categories: [Java, lombok]
 tags: [java, lombok]     # TAG names should always be lowercase
 description: 记录一个野路子对 Lombok 的一些看法
 ---

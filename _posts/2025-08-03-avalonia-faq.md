@@ -1,7 +1,7 @@
 ---
 title: Avalonia 常见问题
 date: 2025-08-03 11:40:00 +0800
-categories: [Avalonia]
+categories: [UI,Avalonia]
 tags: [avalonia, ava-faq]     # TAG names should always be lowercase
 description: 本文记录 Avalonia 的常见问题
 ---
